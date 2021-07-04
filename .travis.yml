@@ -9,7 +9,7 @@ before_script:
 - hugo
 
 script:
-- aws s3 sync. s3://kelvtan.space --acl public-read --delete
+- aws s3 * sync s3://kelvtan.space --acl public-read --delete
 - aws cloudfront create-invalidation --distribution-id E1ZKK7CQQDBWKJ --paths '/*'
 
 branches:
