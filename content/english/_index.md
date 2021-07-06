@@ -10,7 +10,7 @@ banner:
   bg_image: "img/CHOSEN-ONE-6.jpg"
   bg_overlay: false
   title: "Kelvin Tan"
-  content: "With Music, Art, Science and Engineering as integral parts of life,<br> I find myself extremely fortunate to have been trained in these disciplines,<br> and am all the more eager to delve deeper"
+  #content: "With Music, Art, Science and Engineering as integral parts of life,<br> I find myself extremely fortunate to have been trained in these disciplines,<br> and am all the more eager to delve deeper"
   button:
     enable: true
     label: "Discover My Works"
