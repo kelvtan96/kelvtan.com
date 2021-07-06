@@ -180,7 +180,7 @@ languageName = "English"
 languageCode = "en-US"
 contentDir = "content/english"
 weight = 1
-copyright = "Copyright &copy; 2021 [Themefisher](https://themefisher.com). All Rights Reserved."
+copyright = "Copyright &copy; 2021 [Kelvin Tan](https://kelvtan.space). All Rights Reserved."
 
 # Main menu
 # NOTE: Leaf entries linking to content should be defined in the content file's respective front matter.
@@ -227,7 +227,7 @@ languageName = "Français"
 languageCode = "fr-FR"
 contentDir = "content/french"
 weight = 2
-copyright = "Copyright &copy; 2021 [Themefisher](https://themefisher.com). Tous droits réservés."
+copyright = "Copyright &copy; 2021 [Kelvin Tan](https://kelvtan.space). Tous droits réservés."
 
 # Main menu
 # NOTE: Leaf entries linking to content should be defined in the content file's respective front matter.
@@ -274,7 +274,7 @@ languageName = "Italiano"
 languageCode = "it-IT"
 contentDir = "content/italian"
 weight = 2
-copyright = "Copyright &copy; 2021 [Themefisher](https://themefisher.com). Tutti i diritti riservati."
+copyright = "Copyright &copy; 2021 [Kelvin Tan](https://kelvtan.space). Tutti i diritti riservati."
 
 # Main menu
 # NOTE: Leaf entries linking to content should be defined in the content file's respective front matter.
