@@ -7,10 +7,10 @@ menu:
 ############################### Banner ##############################
 banner:
   enable: true
-  bg_image: "images/slider-bg.jpg"
-  bg_overlay: true
+  bg_image: "img/CHOSEN-ONE-6.jpg"
+  bg_overlay: false
   title: "Kelvin Tan"
-  content: "With Music, Art, Science and Engineering as integral parts of life, I find myself extremely fortunate to have been trained in these disciplines, and am all the more eager to delve deeper"
+  content: "With Music, Art, Science and Engineering as integral parts of life,<br> I find myself extremely fortunate to have been trained in these disciplines,<br> and am all the more eager to delve deeper"
   button:
     enable: true
     label: "Discover My Works"
@@ -20,7 +20,7 @@ banner:
 about:
   enable: true
   title: "About Me"
-  description: "Being naturally curious, I have pursued many fields, all of which have guided me till this day. Music has been my constant companion while Education has emerged as my passion. Audio Engineering has given me the tools, skills, and mindset to solve problems and create. Other mediums such as Videography and Photography have given me a platform to break down, express, and share complex thoughts, ideas, and emotions.
+  description: "Being naturally curious, I have pursued many fields, all of which have guided me till this day. Music has been my constant companion while Education has emerged as my passion. Audio Engineering has given me the tools, skills, and mindset to solve problems and create. Other mediums such as Videography and Photography have given me a platform to break down, express, and share complex thoughts, ideas, and emotions. <br> <br>
 
 With Music, Art, Science and Engineering as integral parts of life, I find myself extremely fortunate to have been trained in these disciplines, and am all the more eager to delve deeper."
   image: "images/wrapper-img.png"
