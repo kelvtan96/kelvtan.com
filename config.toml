@@ -196,19 +196,19 @@ URL = "about"
 weight = 1
 
 [[languages.en.menu.footer]]
-name = "Project"
+name = "Portfolio"
 URL = "project"
 weight = 2
 
-[[languages.en.menu.footer]]
-name = "Service"
-URL = "service"
-weight = 3
+#[[languages.en.menu.footer]]
+#name = "Service"
+#URL = "service"
+#weight = 3
 
-[[languages.en.menu.footer]]
-name = "Pricing"
-URL = "pricing"
-weight = 4
+#[[languages.en.menu.footer]]
+#name = "Pricing"
+#URL = "pricing"
+#weight = 4
 
 [[languages.en.menu.footer]]
 name = "FAQ"

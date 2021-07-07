@@ -3,7 +3,9 @@ title: "Service"
 description: "this is meta description"
 bg_image: "images/feature-bg.jpg"
 layout: "service"
-draft: true
+draft: false
+name: "Service"
+weight: 4
 
 
 ########################### about service #############################
