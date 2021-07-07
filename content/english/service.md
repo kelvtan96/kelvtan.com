@@ -3,12 +3,8 @@ title: "Service"
 description: "this is meta description"
 bg_image: "images/feature-bg.jpg"
 layout: "service"
-draft: false
-menu:
-  main:
-    parent: "More"
-    name: "Service"
-    weight: 1
+draft: true
+
 
 ########################### about service #############################
 about:
