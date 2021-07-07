@@ -37,8 +37,8 @@ ordered = false
 
 ################################# Default parameters ##########################
 [params]
-logo = "images/logo.png"
-logo_width = "150px"
+logo = "img/pngwing.com.png"
+logo_width = "70px"
 # OpenGraph / Twitter Card metadata
 description = "This is meta description"
 author = "Themefisher"
