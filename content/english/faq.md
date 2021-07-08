@@ -6,8 +6,10 @@ lastmod: 2021-04-01T00:00:00
 bg_image: "images/feature-bg.jpg"
 layout: "faq"
 draft: false
-name: "FAQ"
-weight: 4
+menu:
+  main:
+    name: "FAQ"
+    weight: 4
 
 
     
