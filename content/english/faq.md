@@ -1,7 +1,7 @@
 ---
 title: "Frequently Asked Questions"
-description: "Let me answer your questions"
-subtitle : "Simply some fun facts about me."
+description: "this is meta description"
+subtitle : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi, repudiandae."
 lastmod: 2021-04-01T00:00:00
 bg_image: "images/feature-bg.jpg"
 layout: "faq"
