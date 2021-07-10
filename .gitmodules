@@ -4,3 +4,6 @@
 [submodule "themes/hugo-uilite-theme"]
 	path = themes/hugo-uilite-theme
 	url = https://github.com/uicardioHQ/hugo-uilite
+[submodule "Submod"]
+	url = https://github.com/username/ABC.git
+	branch = development
