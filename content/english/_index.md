@@ -54,18 +54,18 @@ service:
 ############################ call to action ###########################
 cta:
   enable: true
-  bg_image: "img/40379758940_c57bf70467_o.jpg"
-  title: "See the whole picture"
-  content: "Have an idea?<br>Let's have a chat."
+  bg_image: "images/call-to-action-bg.jpg"
+  title: "We design delightful digital experiences."
+  content: "Read more about what we do and our philosophy of design. Judge for yourself The work and results <br> we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
   button:
     enable: true
-    label: "Contact Me"
+    label: "Tell Us Your Story"
     link: "contact"
 
 ############################# Funfacts ###############################
 funfacts:
   enable: true
-  title: "Fun Facts About Me"
+  title: "Fun Facts About Us"
   description: "'Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics'"
   funfact_item:
   # funfacts item loop
