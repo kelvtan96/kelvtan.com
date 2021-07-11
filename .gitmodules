@@ -4,3 +4,6 @@
 [submodule "themes/hugo-uilite-theme"]
 	path = themes/hugo-uilite-theme
 	url = https://github.com/uicardioHQ/hugo-uilite
+[submodule "themes/airspace-hugo-2"]
+	path = themes/airspace-hugo-2
+	url = https://github.com/kelvtan96/airspace-hugo

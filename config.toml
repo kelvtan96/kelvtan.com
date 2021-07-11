@@ -2,7 +2,7 @@
 # Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 baseURL = "https://www.kelvtan.space"
 title = "Kelvin Tan | Portfolio"
-theme = "airspace-hugo"
+theme = "airspace-hugo-2"
 # Number of posts per page in list view
 paginate = "4"
 # Post excerpt length
