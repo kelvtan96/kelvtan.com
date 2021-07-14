@@ -38,7 +38,7 @@ ordered = false
 ################################# Default parameters ##########################
 [params]
 logo = "img/KELV-FAVICON-BANNER.png"
-logo_width = "150px"
+logo_width = "115px"
 # OpenGraph / Twitter Card metadata
 description = "This is meta description"
 author = "Themefisher"
