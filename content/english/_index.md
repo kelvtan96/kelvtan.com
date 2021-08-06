@@ -69,22 +69,22 @@ funfacts:
   description: "'Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics'"
   funfact_item:
   # funfacts item loop
-  - icon: "ion-ios-chatboxes-outline" #ionicon pack v2: https://ionicons.com/v2/
-    name: "Cups Of Coffee"
+  - icon: "ion-ios-settings" #ionicon pack v2: https://ionicons.com/v2/
+    name: "Music Mixed"
     count: "99"
 
   # funfacts item loop
-  - icon: "ion-ios-glasses-outline" #ionicon pack v2: https://ionicons.com/v2/
-    name: "Article Written"
-    count: "45"
+  - icon: "ion-ios-camera-outline" #ionicon pack v2: https://ionicons.com/v2/
+    name: "Photos Taken"
+    count: "10000"
 
   # funfacts item loop
-  - icon: "ion-ios-compose-outline" #ionicon pack v2: https://ionicons.com/v2/
+  - icon: "ion-ios-film-outline" #ionicon pack v2: https://ionicons.com/v2/
     name: "Projects Completed"
     count: "125"
 
   # funfacts item loop
-  - icon: "ion-ios-timer-outline" #ionicon pack v2: https://ionicons.com/v2/
+  - icon: "ion-ios-flame-outline" #ionicon pack v2: https://ionicons.com/v2/
     name: "Combined Projects"
     count: "200"
 

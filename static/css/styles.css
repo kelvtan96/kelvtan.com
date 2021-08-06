@@ -200,7 +200,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 section {
-  padding: 10%;
+  padding: 5%;
 }
 
 section .heading {
@@ -230,7 +230,7 @@ section.orange {
 }
 
 section.green {
-  background-color: #aaffa7;
+  background-color: #ffffffe3;
 }
 
 section.skin {
@@ -293,7 +293,7 @@ section.pink {
 }
 
 #timeline .timeline-item .timeline-icon {
-  background: #000;
+  background: rgb(0, 0, 0);
   width: 20px;
   height: 20px;
   position: absolute;
@@ -345,7 +345,7 @@ section.pink {
   .sidebar {
     position: static;
     width: 100%;
-    padding-left: 0px;
+    /* padding-left: 0px; */
   }
   .main-content {
     width: 100%;

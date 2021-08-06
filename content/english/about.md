@@ -1,7 +1,9 @@
 ---
-title: "About Me"
+
+title: "Kelvin Tan | About Me"
 description: "Let me introduce myself"
-bg_image: "images/feature-bg.jpg"
+bg_image: "img/CHOSEN-ONE-6-BLUR.jpg"
+bg_overlay: false
 layout: "about"
 draft: false
 menu:
